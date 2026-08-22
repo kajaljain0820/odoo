@@ -10,8 +10,7 @@
   ![React](https://img.shields.io/badge/Frontend-React_18_%2B_Vite-61DAFB?style=for-the-badge&logo=react)
   ![Node.js](https://img.shields.io/badge/Backend-Node.js_%2B_Express-339933?style=for-the-badge&logo=nodedotjs)
   ![MySQL](https://img.shields.io/badge/Database-MySQL_%2B_Sequelize-4479A1?style=for-the-badge&logo=mysql)
-  ![License](https://img.shields.io/badge/Status-Hackathon_Submission-7C3AED?style=for-the-badge)
-
+ 
 </div>
 
 ---
