@@ -204,7 +204,7 @@ npm run dev
 
 ---
 
-## 📋 Hackathon Compliance Matrix (13/13 Screens)
+##  Hackathon Compliance Matrix (13/13 Screens)
 
 | # | Wireframe / Feature Requirement | Status | Implementation Details |
 |---|---|---|---|
