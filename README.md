@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Overarching Vision & Mission
+##  Overarching Vision & Mission
 
 **GlobalTrotter** simplifies the complexity of planning multi-city travel. It transforms fragmented travel research into a seamless, interactive, and collaborative itinerary dashboard.
 
@@ -24,61 +24,61 @@ Travelers can explore global destinations, visualize their journeys through stru
 
 ---
 
-## ✨ Key Features & Capabilities
+##  Key Features & Capabilities
 
-### 🔐 1. Split-Screen Authentication (Screen 2)
+###  1. Split-Screen Authentication (Screen 2)
 - **Cinematic Experience**: Full-screen travel photography background with dark gradient overlays.
 - **Micro-Animations**: Panel slide-ins, floating avatar, and cascading staggered form elements.
 - **Robust Security**: Passwords hashed with `bcryptjs`, session managed via JWT tokens.
 - **Profile Customization**: Photo upload, phone number, city, and bio preferences.
 
-### 🏠 2. Dynamic Landing & Dashboard (Screen 1 & 4)
+###  2. Dynamic Landing & Dashboard (Screen 1 & 4)
 - **Personalized Welcome**: Custom hero greeting displaying upcoming and past trip metrics.
 - **Regional Inspiration**: Curated 6-card destination highlights (Paris, Goa, New York, Interlaken, London, Bali).
 - **Status Filter Tabs**: Filter trips by `All`, `Upcoming`, `Ongoing`, and `Completed`.
 - **Quick Action Bar**: One-click access to "Plan a New Trip".
 
-### 🗺️ 3. Multi-City Trip Planner & Suggestions (Screen 3 & 5)
+###  3. Multi-City Trip Planner & Suggestions (Screen 3 & 5)
 - **Trip Setup**: Specify trip title, destination place, description, start date, end date, and overall trip budget in **₹**.
 - **Cover Photo Upload**: Support for custom image URLs or direct photo selection.
 - **Smart Suggestions**: City-specific activity ideas automatically suggested below the creation form.
 
-### 📅 4. Day-Wise Timeline & Itinerary Builder (Screen 5, 6 & 10)
+###  4. Day-Wise Timeline & Itinerary Builder (Screen 5, 6 & 10)
 - **Day-by-Day Flowchart**: Physical activity node cards mapped sequentially per day.
 - **Inline Activity Adder**: Quickly add activities with estimated costs (₹) directly into any day.
 - **Visual Calendar View**: Full monthly calendar view (`/calendar`) marking scheduled trip dates.
 
-### 💰 5. Smart Budget & Cost Analytics (Screen 9)
+###  5. Smart Budget & Cost Analytics (Screen 9)
 - **Financial Breakdown**:
-  - 💵 **Total Trip Budget (₹)**
-  - 📊 **Total Spent (₹)**
-  - 💳 **Remaining Balance (₹)**
-  - 🗓️ **Average Cost per Day (₹)**
+  -  **Total Trip Budget (₹)**
+  -  **Total Spent (₹)**
+  -  **Remaining Balance (₹)**
+  -  **Average Cost per Day (₹)**
 - **Budget Health Bar**: Dynamic progress bar indicating budget usage percentage (turns red when over-budget).
 - **Interactive SVG Bar Chart**: Visual daily spend breakdown with dashed budget target line.
 
-### 🔍 6. Live Activity & City Search Engine (Screen 7 & 8)
+###  6. Live Activity & City Search Engine (Screen 7 & 8)
 - **Live Autocomplete**: Dropdown suggestions matching queries across 35+ Indian cities and adventures.
 - **Filter Chips**: Instant filtering by category (*Adventure, Culture, Dining, Sightseeing, Views*).
 - **One-Click Add**: Add searched activities directly into any scheduled trip.
 
-### 🌐 7. Public Shareable Itinerary & One-Click Cloning (Screen 11)
+###  7. Public Shareable Itinerary & One-Click Cloning (Screen 11)
 - **Unique Share Links**: Generate unique public URLs (`/shared/<share_key>`) for any trip.
 - **Read-Only Shared View**: Accessible to non-logged-in visitors displaying full timeline and budget.
 - **Copy Trip Button**: Logged-in users can clone any shared itinerary (including all days and activities) into their own account with one click!
 
-### 💬 8. Social Community Feed
+###  8. Social Community Feed
 - **Travel Stories**: Share trip highlights, photo updates, and travel advice with the community.
 - **Like & Interact**: Engaging social card layout with live likes count.
 
-### 📊 9. Admin Dashboard & Analytics (Screen 12 & 13)
+###  9. Admin Dashboard & Analytics (Screen 12 & 13)
 - **User Management**: Admin tools to inspect user directories, toggle admin permissions, or remove accounts.
 - **Platform Analytics**: Dynamic SVG Line Chart tracking user registrations and Bar Chart tracking trip allocations.
 - **Smooth Tab Transitions**: CSS keyframe `animated-fade` tab switching between analytics tabs.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technologies |
 |---|---|
@@ -154,7 +154,7 @@ erDiagram
 
 ---
 
-## 🔑 Demo Credentials for Judges & Reviewers
+##  Demo Credentials for Judges & Reviewers
 
 The system comes pre-seeded with initial data for instant testing:
 
@@ -165,7 +165,7 @@ The system comes pre-seeded with initial data for instant testing:
 
 ---
 
-## 🚀 Quick Start & Installation
+##  Quick Start & Installation
 
 ### Prerequisites
 - **Node.js** v18+ installed
@@ -227,6 +227,6 @@ npm run dev
 
 <div align="center">
 
-Made with ❤️ for the Hackathon by Team GlobalTrotter
+
 
 </div>
