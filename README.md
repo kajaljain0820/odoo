@@ -98,3 +98,6 @@ Visit `http://localhost:5173` — the Vite proxy forwards `/api/*` to the Expres
 GET /api/health
 → { "status": "ok", "db": "up", "uptime": 42.3 }
 ```
+
+
+hello odoo
