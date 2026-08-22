@@ -1,4 +1,4 @@
-# ✈️ GlobalTrotter — Empowering Personalized Travel Planning
+#  GlobalTrotter — Empowering Personalized Travel Planning
 
 <div align="center">
 
